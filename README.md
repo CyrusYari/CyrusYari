@@ -5,10 +5,10 @@
 
 </div>
   
-<h4 align="center">I am an experienced full-stack software engineer driven to advance the open source community via contribution. I enjoy working with new technologies and working through complex systems. I am also a core team member and co-creator of LightQL, an open-source client-side caching tool for GraphQL.
+<h4 align="center">I'm an experienced full-stack software engineer driven to advance the open source community via contribution. I enjoy working with new technologies and working through complex systems. I am also a core team member and co-creator of LightQL, an open-source client-side caching tool for GraphQL.
 <br>
 <br>
-My other experiences include building and deploying highly-functional, user-friendly, full-stack products incorporating JavaScript/ES6+, TypeScript, Node.js/Express, React, GraphQL, and SQL. In lower-scale products I replace GraphQL with REST, and SQL with NoSQL.</h4>
+My other experiences include building and deploying highly-functional, user-friendly, full-stack products incorporating JavaScript/ES6+, TypeScript, Node.js/Express, React, GraphQL (or REST), and SQL (or NoSQL).</h4>
 
 <h3 align="left">Skills & Technologies:</h3>
 
