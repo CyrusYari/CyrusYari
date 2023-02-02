@@ -37,7 +37,7 @@ My other experiences include building and deploying highly-functional, user-frie
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<h3 align="left">Contact Me: </h3>
+<h3 align="left">Contact Me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cyrusyari/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cyrus.yari@pm.me)
